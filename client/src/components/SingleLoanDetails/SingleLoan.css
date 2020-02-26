@@ -1,0 +1,10 @@
+.card{
+  width: 30% ; 
+  position: absolute ;
+  top: 20% ; 
+  left: 35% 
+}
+
+.card-header{
+    font-weight: bold
+}
